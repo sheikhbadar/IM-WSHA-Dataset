@@ -37,8 +37,12 @@ Subjects: 10
 # Dataset Visualization:
 ![image](https://user-images.githubusercontent.com/49350595/93660581-f197f800-fa69-11ea-8439-51d574360e98.png)
 
+# Contact Me
+For any query or if you want to collaborate write me here badaruddin.edu(at)gmail.com
+
 # Citation Request:
 S. Badar ud din Tahir, A. Jalal, and K. Kim, “Wearable Inertial Sensors for Daily Activity Analysis Based on Adam Optimization and the Maximum Entropy Markov Model,” Entropy, vol. 22, no. 5, p. 579, May 2020.
 
 S. Badar ud din Tahir, A. Jalal and M. Batool, "Wearable Sensors for Activity Analysis using SMO-based Random Forest over Smart home and Sports Datasets," 2020 3rd International Conference on Advancements in Computational Sciences (ICACS), Lahore, Pakistan, 2020, pp. 1-6.
+
 
